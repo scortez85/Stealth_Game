@@ -1,0 +1,98 @@
+# 
+# 
+
+newmtl ShaoJunAccessories
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd Shao_Jun_Accessories_D.tga
+map_Bump Shao_Jun_Accessories_N.tga
+map_Ka Shao_Jun_Accessories_O.tga
+map_d Shao_Jun_Accessories_D.tga
+
+newmtl ShaoJunClothes
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Shao_Jun_Clothes_D.tga
+map_Bump Shao_Jun_Clothes_N.tga
+map_Ka Shao_Jun_Clothes_O.tga
+
+newmtl ShaoJunEye
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Shao_Jun_Eye_D.tga
+map_Bump Shao_Jun_Eye_N.tga
+
+newmtl ShaoJunEyeReflection
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd Shao_Jun_Eye_Reflection_D.tga
+map_d Shao_Jun_Eye_Reflection_D.tga
+
+newmtl ShaoJunEyelash
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd Shao_Jun_Eyelash_D.tga
+map_Bump Shao_Jun_Eyelash_N.tga
+map_d Shao_Jun_Eyelash_D.tga
+
+newmtl ShaoJunHead
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Shao_Jun_Head_D.tga
+map_Bump Shao_Jun_Head_N.tga
+map_Ka Shao_Jun_Head_O.tga
+
+newmtl ShaoJunMouth
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd Shao_Jun_Mouth_D.tga
+map_Bump Shao_Jun_Mouth_N.tga
+map_Ka Shao_Jun_Mouth_O.tga
+map_d Shao_Jun_Mouth_D.tga
+
+newmtl ShaoJunSword
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Shao_Jun_Sword_D.tga
+map_Bump Shao_Jun_Sword_N.tga
+map_Ka Shao_Jun_Sword_O.tga
